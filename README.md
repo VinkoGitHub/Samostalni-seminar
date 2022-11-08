@@ -1,4 +1,4 @@
-# Samostalni-seminar
+# Samostalni seminar
 Materijal vezan uz kolegij "Samostalni seminar iz istraživanja u fizici".
 
 Cijeli seminar bazira se na radu
